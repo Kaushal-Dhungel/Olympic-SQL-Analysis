@@ -7,7 +7,7 @@
 *This readme file only contains the basic visualised output of the analysis. Full analysis was done in postgres database and the SQL code is in 'olympic_analysis.sql' file. The SQL queries and their output (in table form, like SQL) can also be seen in the 'Result_Visualisation.ipynb' file.*
 
 
-## 1.Top Five Athletes With The Most Gold Medals And Their Countries.
+## 1.Top Four Athletes With The Most Gold Medals And Their Countries.
 ![one](https://github.com/Kaushal-Dhungel/Olympic-SQL-Analysis/blob/main/output/1.png)
 
 *- Michael Fred Phelps ( from USA) is the player with the most gold medals in Olympics. The second player in the list is Raymond Clarence who is also from the USA*
